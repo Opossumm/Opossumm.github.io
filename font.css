@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'ArsenalBold';
+    src: url('fonts/ArsenalBold.eot');
+    src: url('fonts/ArsenalBold.eot') format('embedded-opentype'),
+         url('fonts/ArsenalBold.woff2') format('woff2'),
+         url('fonts/ArsenalBold.woff') format('woff'),
+         url('fonts/ArsenalBold.ttf') format('truetype'),
+         url('fonts/ArsenalBold.svg#ArsenalBold') format('svg');
+}
+@font-face {
+    font-family: 'ArsenalRegular';
+    src: url('fonts/ArsenalRegular.eot');
+    src: url('fonts/ArsenalRegular.eot') format('embedded-opentype'),
+         url('fonts/ArsenalRegular.woff2') format('woff2'),
+         url('fonts/ArsenalRegular.woff') format('woff'),
+         url('fonts/ArsenalRegular.ttf') format('truetype'),
+         url('fonts/ArsenalRegular.svg#ArsenalRegular') format('svg');
+}

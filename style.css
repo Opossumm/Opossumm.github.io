@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:400,700&subset=cyrillic');
+.container{
+    background-color: #081928;
+    width: 2000px;
+    height: 1200px;
+}
+
+    
+
+#visit{
+    width: 40px;
+    height: 40px;
+    margin-left: 100px;
+}
+.title{
+    float:left;
+    margin-top: 50px;
+}
+.title h5{
+    margin-top: 5px;
+    display: inline-block;
+    color: #fff;
+    font-size: 25px;
+}
+.banner{
+    height: 100px;
+}
+
+#navig ul li {
+    display: inline-block;
+    margin-top: 65px;
+    margin-left: 9%;
+    margin-bottom: 10px;
+}
+#navig ul li a{
+    color: #fff;
+    padding: 12px;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+.content{
+    background-color: #fff;
+    height: 830px;
+    border-radius: 10px;
+    color: #0e4d66;
+
+}
+#fio{
+    color: #0e4d66;
+    margin-left: 80px;
+    margin-top: 40px;
+    margin-bottom: 34px;
+}
+.qet{
+    text-align: left;
+    font-size: 14px;
+    font-family: "ArsenalBold";
+    
+}
+.ans p{
+    font-size:  14px;
+    text-align: right;
+   
+}
+#avatar{
+    float: right;
+    border-radius: 5px;
+    border: 1px solid #0b2b3d;
+}
+.kont h4{
+    margin-bottom: 20px;
+    
+}
+.ans2 p{
+    font-size:  14px;
+    text-align: left;
+   
+}
+.kont{
+    margin-left: 40px;
+}
+.container.myself{
+    border-color: #fff;
+}
+.mini_title{
+    font-family: ArsenalBold;
+    margin-left: 60px;
+}
+#self{
+    margin-left: 60px;
+}
+.text{
+    margin-left: 60px;
+    margin-right: 45px;
+}
+.number{
+    color: #f2b01c;
+    padding-left: 10px;
+}
+.footer{
+    height: 155px;
+}
+.numb p{
+    color:#fff;
+    padding-left: 20px;
+}
+.numb{
+ margin-top:  80px;   
+ 
+}
